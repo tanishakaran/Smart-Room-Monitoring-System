@@ -11,6 +11,7 @@ An Arduino-based smart room monitoring system that monitors temperature and ligh
 - 💡 Low-light alert LED
 - 📟 Serial Monitor output
 - 🔧 Arduino-based sensor integration
+- - 📊 Real-time sensor data monitoring
 
 ## 🛠️ Components Used
 
